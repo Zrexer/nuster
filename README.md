@@ -31,7 +31,7 @@ Screenshot
 ----
 ![Screenshot](https://github.com/Zrexer/nuster/blob/main/Screenshot%20(127).png)
 
-# How Clone?
+# How To Clone?
 ```
 git clone https://github.com/Zrexer/nuster
 cd ./nuster
