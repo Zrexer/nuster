@@ -27,8 +27,8 @@ or
 nuster --help
 ```
 
-Screenshot
-----
+Screenshot 1
+------------
 ![Screenshot](https://github.com/Zrexer/nuster/blob/main/Screenshot%20(127).png)
 
 # How To Clone?
@@ -55,3 +55,7 @@ mv nuster ../usr/bin
 + Save 200 status domains in result.txt file
 + Better graphics than version 0.0.1
 + Version Switch => -v / --version
+
+Screenshot 2
+------------
+![Screenshot](https://github.com/Zrexer/nuster/blob/main/Screenshot%20(129).png)
