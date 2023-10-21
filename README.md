@@ -47,3 +47,11 @@ pip install -r requirements
 mv nuster.py nuster
 mv nuster ../usr/bin
 ```
+
+# Versions
+0.0.1 and 3.0.1
+
+# Whats News on 3.0.1 ?
++ Save 200 status domains in result.txt file
++ Better graphics than version 0.0.1
++ Version Switch => -v / --version
